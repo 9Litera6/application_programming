@@ -1,4 +1,3 @@
-<img width="1873" height="905" alt="1" src="https://github.com/user-attachments/assets/083b9706-f24d-4228-bb10-94c5f48da0db" />
 # Исполнитель
 
 Новиков Дмитрий
