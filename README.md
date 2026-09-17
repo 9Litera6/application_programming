@@ -1,3 +1,4 @@
+<img width="1873" height="905" alt="1" src="https://github.com/user-attachments/assets/083b9706-f24d-4228-bb10-94c5f48da0db" />
 # Исполнитель
 
 Новиков Дмитрий
@@ -58,3 +59,4 @@ IDE для открытия .py файлов: Pycharm; Visual Studio Code.
 
 # Результаты тестирования
 
+<img width="1873" height="905" alt="1" src="https://github.com/user-attachments/assets/fdde72b3-6ea9-4e27-adc5-f4944974f1b9" />
